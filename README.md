@@ -3,3 +3,4 @@ For more information, check out the paper on [paper link]. Also check out projec
 
 # Network
 ![overview](fig/overview.png)
+![overview](fig/aggregator.png)
