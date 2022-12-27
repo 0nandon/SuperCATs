@@ -1,5 +1,5 @@
 # SuperCATs
-For more information, check out the paper on [paper link]. Also check out project page here [Project Page link].<br>
+For more information, check out the paper on [paper link](https://ieeexplore.ieee.org/document/9954872). Also check out project page here [Project Page link].<br>
 *This paper is accepted in ICCE-Asia'22*
 
 >**Cost Aggregation with Transformers for Sparse Correspondence** <br><br>
