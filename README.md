@@ -11,3 +11,15 @@ Overview of our model is illustrated below:
 ![overview](fig/overview.png)
 Structure of Transformer Aggregator is illustrated below:
 ![overview](fig/aggregator.png)
+
+# Citation
+'''
+@inproceedings{lee2022cost,
+  title={Cost Aggregation with Transformers for Sparse Correspondence},
+  author={Lee, Seungjun and An, Seungjun and Hong, Sunghwan and Cho, Seokju and Nam, Jisu and Hong, Susung and Kim, Seungryong},
+  booktitle={2022 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)},
+  pages={1--4},
+  year={2022},
+  organization={IEEE}
+}
+'''
