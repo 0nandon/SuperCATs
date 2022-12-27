@@ -12,9 +12,9 @@ Overview of our model is illustrated below:
 Structure of Transformer Aggregator is illustrated below:
 ![overview](fig/aggregator.png)
 
-# BivTex
+# BibTex
 If you find this research useful, please consider citing:
-```BivTex
+```BibTex
 @inproceedings{lee2022cost,
   title={Cost Aggregation with Transformers for Sparse Correspondence},
   author={Lee, Seungjun and An, Seungjun and Hong, Sunghwan and Cho, Seokju and Nam, Jisu and Hong, Susung and Kim, Seungryong},
