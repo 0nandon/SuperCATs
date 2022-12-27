@@ -12,6 +12,12 @@ Overview of our model is illustrated below:
 Structure of Transformer Aggregator is illustrated below:
 ![overview](fig/aggregator.png)
 
+# Training
+To train the SuperGlue with default parameters, run the following command:
+```
+python train.py
+```
+
 # BibTex
 If you find this research useful, please consider citing:
 ```BibTex
