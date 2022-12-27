@@ -19,11 +19,11 @@ python train.py
 ```
 Additional useful command line parameters
 
-* Use --epoch to set the number of epochs (default: 20).
-* Use --train_path to set the path to the directory of training images.
-* Use --eval_output_dir to set the path to the directory in which the visualizations is written (default: dump_match_pairs/).
-* Use --show_keypoints to visualize the detected keypoints (default: False).
-* Use --viz_extension to set the visualization file extension (default: png). Use pdf for highest-quality.
+* Use `--epoch` to set the number of epochs (default: `20`).
+* Use `--train_path` to set the path to the directory of training images.
+* Use `--eval_output_dir` to set the path to the directory in which the visualizations is written (default: `dump_match_pairs/`).
+* Use `--show_keypoints` to visualize the detected keypoints (default: `False`).
+* Use `--viz_extension` to set the visualization file extension (default: `png`). Use pdf for highest-quality.
 
 # BibTex
 If you find this research useful, please consider citing:
