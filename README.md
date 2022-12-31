@@ -15,7 +15,7 @@ Structure of Transformer Aggregator is illustrated below:
 ![aggregator](fig/aggregator.png)
 
 # Training
-To train the SuperGlue with default parameters, run the following command:
+To train the SuperCATs with default parameters, run the following command:
 ```
 python train.py
 ```
