@@ -1,4 +1,4 @@
-# SuperCATs
+# **SuperCATs** : Cost Aggregation with Transformers for Sparse Correspondence
 For more information, check out the paper on [[paper link]](https://ieeexplore.ieee.org/document/9954872). Also check out project page here [[Project Page link]](https://ku-cvlab.github.io/SuperCATs/).<br>
 *This paper is accepted in ICCE-Asia'22*
 
